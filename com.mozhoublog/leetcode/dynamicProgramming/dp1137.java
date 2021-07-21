@@ -2,7 +2,7 @@ package leetcode.dynamicProgramming;
 
 /**
  * @Author: mozhou
- * @Description: 第 N 个泰波那契数
+ * @Description: 第 N 个泰波那契数-dp
  * @Date: 2021/7/21 16:34
  */
 public class dp1137 {
